@@ -7,3 +7,6 @@ C:\dev\7196\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.Assembl
 C:\dev\7196\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.AssemblyInfo.cs
 C:\dev\7196\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.dll
 C:\dev\7196\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.pdb
+C:\Dev\7196\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Dev\7196\Todo.Domain.Infra\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Dev\7196\Todo.Domain.Infra\obj\Debug\netstandard2.0\Todo.Domain.Infra.csproj.CopyComplete

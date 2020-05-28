@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\7196\\Todo.Domain\\Todo.Domain.csproj": {}
+    "C:\\Dev\\7196\\Todo.Domain\\Todo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\dev\\7196\\Todo.Domain\\Todo.Domain.csproj": {
+    "C:\\Dev\\7196\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\7196\\Todo.Domain\\Todo.Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\7196\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "C:\\dev\\7196\\Todo.Domain\\Todo.Domain.csproj",
+        "projectPath": "C:\\Dev\\7196\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\stoem\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\7196\\Todo.Domain\\obj\\",
+        "outputPath": "C:\\Dev\\7196\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
             }
           },
           "imports": [
